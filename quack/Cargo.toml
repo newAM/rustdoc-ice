@@ -1,0 +1,8 @@
+[package]
+name = "quack"
+version = "0.1.0"
+authors = ["Alex Martens <alex@thinglab.org>"]
+edition = "2021"
+
+[dependencies]
+moo.path = "../moo"
